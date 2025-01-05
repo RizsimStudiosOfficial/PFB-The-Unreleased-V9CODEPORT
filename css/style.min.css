@@ -2857,9 +2857,6 @@ video::-webkit-media-controls {
     -ms-touch-action: none;
     touch-action: none;
 }
-.v1.darkmode #box-bottom #box-picto .picto {
-    background-color: #666;
-}
 .v2.darkmode #box-bottom #box-picto .picto {
     background-color: #666;
 }
